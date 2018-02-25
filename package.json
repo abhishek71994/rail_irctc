@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/abhishek71994/rail_irctc/issues"
   },
-  "homepage": "https://github.com/abhishek71994/rail_irctc#readme"
+  "homepage": "https://github.com/abhishek71994/rail_irctc#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
 }
